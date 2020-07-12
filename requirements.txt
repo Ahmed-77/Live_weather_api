@@ -1,0 +1,9 @@
+Requirements required for this code:
+1. Openpyxl
+	~To install run "pip3 install openpyxl"
+2. urllib3
+	~To install run "pip3 install urllib3"
+3. os
+	~To install run "pip3 install os"
+4. json
+	~ To install run "pip3 install json"
